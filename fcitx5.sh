@@ -1,6 +1,6 @@
 #!/bin/env bash
 
-#### OpenBangla Keyboard (Develop Branch) for ibus Installation Script ####
+#### OpenBangla Keyboard (Develop Branch) for fcitx5 Installation Script ####
 #### ( https://github.com/asifakonjee ) ####
 
 # fcitx5.sh ( install script with fcitx5 )

@@ -3,6 +3,8 @@
 #### OpenBangla Keyboard (Develop Branch) for ibus Installation Script ####
 #### ( https://github.com/asifakonjee ) ####
 
+# fcitx5.sh ( install script with fcitx5 )
+
 # color defination
 red="\e[1;31m"
 green="\e[1;32m"

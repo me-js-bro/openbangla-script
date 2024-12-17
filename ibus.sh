@@ -3,6 +3,8 @@
 #### OpenBangla Keyboard (Develop Branch) for ibus Installation Script ####
 #### ( https://github.com/asifakonjee ) ####
 
+# ibus.sh ( install script with ibus )
+
 # color defination
 red="\e[1;31m"
 green="\e[1;32m"
